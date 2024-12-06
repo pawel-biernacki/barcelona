@@ -1,0 +1,117 @@
+### Dzień 1: Sobota
+- **09:00 - 10:00**: Przylot do Barcelony i dojazd do centrum miasta
+  - **Transport**: Aerobus A1 (Terminal 1) lub A2 (Terminal 2)
+  - **Cena**: 7,25 EUR za jedną stronę, 12,25 EUR za bilet powrotny
+  - **Czas podróży**: Około 35 minut
+  - **Adresy przystanków**: Plaça Espanya, Gran Via-Urgell, Plaça Universitat, Plaça Catalunya
+  - **Częstotliwość**: Co 5 minut w godzinach szczytu, co 10 minut w pozostałych godzinach
+  - **Kupno biletu**: Online na stronie Aerobusu lub u kierowcy
+- **10:00 - 11:00**: Śniadanie w centrum
+  - Propozycja: **Brunch & Cake** - Carrer d'Enric Granados, 19, 08007 Barcelona
+- **11:00 - 13:30**: **Parc Güell**
+  - **Opis**: Park zaprojektowany przez Antoniego Gaudiego, pełen kolorowych mozaik, ciekawych budynków i pięknych widoków
+  - **Godziny otwarcia**: 9:30 - 17:30
+  - **Cena**: 10-12 EUR
+  - **Adres**: Carrer d'Olot, s/n, 08024 Barcelona
+- **13:30 - 14:30**: Lunch w okolicy Parc Güell
+  - Propozycja: **Restaurant La Salut** - Carrer de Pau Alsina, 56, 08024 Barcelona
+- **14:30 - 16:30**: Spacer po **Barri Gòtic**
+  - **Opis**: Historyczna dzielnica z wąskimi uliczkami, gotycką architekturą i pięknymi placami
+  - **Główne punkty**: Plaça Reial, Plaça Sant Jaume, Katedra św. Eulalii (La Seu)
+- **16:30 - 18:00**: **La Rambla**
+  - **Opis**: Popularny deptak, pełen sklepów, kawiarni i artystów ulicznych
+  - **Adres**: La Rambla, 08002 Barcelona
+- **18:00 - 19:00**: Obiad w okolicy La Rambla
+  - Propozycja: **Restaurante La Boqueria** - Rambla, 91, 08001 Barcelona
+- **19:00 - 21:00**: Wieczorny spacer po **La Barceloneta**
+  - **Opis**: Nadmorska dzielnica z piękną plażą i widokami na morze
+  - **Adres**: Passeig Marítim de la Barceloneta, 08003 Barcelona
+
+### Dzień 2: Niedziela
+- **08:00 - 09:00**: Śniadanie w centrum
+  - Propozycja: **Cafe Zurich** - Plaça de Catalunya, 1, 08002 Barcelona
+- **09:00 - 11:00**: **Casa Batlló i Casa Milà (La Pedrera)**
+  - **Opis**: Dwa ikoniczne budynki zaprojektowane przez Gaudiego, z charakterystycznymi fasadami i unikalną architekturą
+  - **Godziny otwarcia**: Casa Batlló: 9:00 - 21:00, Casa Milà: 9:00 - 20:30
+  - **Cena**: Casa Batlló: 29-45 EUR, Casa Milà: 28-39 EUR
+  - **Adres**: Casa Batlló - Passeig de Gràcia, 43, 08007 Barcelona; Casa Milà - Passeig de Gràcia, 92, 08008 Barcelona
+- **11:00 - 12:00**: Lunch w okolicy Eixample
+  - Propozycja: **El Nacional** - Passeig de Gràcia, 24 Bis, 08007 Barcelona
+- **12:00 - 14:00**: **Museu Picasso**
+  - **Opis**: Muzeum poświęcone twórczości Pabla Picassa, z bogatą kolekcją jego dzieł
+  - **Godziny otwarcia**: 10:00 - 19:00
+  - **Cena**: 12 EUR (w ramach Articket)
+  - **Adres**: Carrer de Montcada, 15-23, 08003 Barcelona
+- **14:00 - 16:00**: Spacer po **El Born**
+  - **Opis**: Kolorowa dzielnica z kawiarniami, butikami i wąskimi uliczkami
+  - **Główne punkty**: El Born Centre de Cultura i Memòria, Mercat del Born
+- **16:00 - 17:00**: Obiad w okolicy Gothic Quarter
+  - Propozycja: **Restaurant 4 Gats** - Carrer de Montsió, 3, 08002 Barcelona
+- **17:00 - 19:00**: **Museu d'Art Contemporani de Barcelona (MACBA)**
+  - **Opis**: Muzeum sztuki współczesnej z wystawami eksperymentalnymi i interaktywnymi
+  - **Godziny otwarcia**: 11:00 - 19:30
+  - **Cena**: 12 EUR (w ramach Articket)
+  - **Adres**: Plaça dels Àngels, 1, 08001 Barcelona
+- **19:00 - 21:00**: Wieczorny spacer po **Passeig de Gràcia**
+  - **Opis**: Ekskluzywna ulica z luksusowymi butikami, kawiarniami i pięknymi kamienicami
+  - **Adres**: Passeig de Gràcia, 08007 Barcelona
+
+### Dzień 3: Poniedziałek
+- **08:00 - 09:00**: Śniadanie w centrum
+  - Propozycja: **Granja M. Viader** - Carrer d'en Xuclà, 4-6, 08001 Barcelona
+- **09:00 - 12:00**: **Bazylika Sagrada Família**
+  - **Opis**: Ikoniczna bazylika zaprojektowana przez Gaudiego, wciąż w budowie
+  - **Godziny otwarcia**: 9:00 - 18:00
+  - **Cena**: 20-26 EUR
+  - **Adres**: Carrer de Mallorca, 401, 08013 Barcelona
+- **12:00 - 13:00**: Lunch w okolicy Sagrada Família
+  - Propozycja: **La Paradeta Sagrada Família** - Passatge de Simó, 18, 08025 Barcelona
+- **13:00 - 18:00**: Zwiedzanie **Montjuïc**
+  - **Opis**: Obejmuje zamek Montjuïc, ogrody, Muzeum Narodowe Sztuki Katalońskiej (MNAC) i inne atrakcje
+  - **Godziny otwarcia**: Muzeum Narodowe Sztuki Katalońskiej (MNAC): 10:00 - 18:00
+  - **Cena**: MNAC: 12 EUR (w ramach Articket), Zamek Montjuïc: 5 EUR
+  - **Adres**: Palau Nacional, Parc de Montjuïc, s/n, 08038 Barcelona
+- **18:00 - 21:00**: Obiad i wieczorny spacer po Montjuïc, w tym pokaz fontann Magic Fountain
+  - Propozycja: **Restaurant Miramar** - Carretera de Montjuïc, 31, 08038 Barcelona
+
+### Dzień 4: Wtorek
+- **08:00 - 09:00**: Śniadanie w centrum
+  - Propozycja: **Churrería Laietana** - Via Laietana, 46, 08003 Barcelona
+- **09:00 - 11:00**: **Parc de la Ciutadella**
+  - **Opis**: Duży park z jeziorem, ogrodami i monumentalną fontanną.
+  - **Adres**: Passeig de Picasso, 21, 08003 Barcelona
+- **11:00 - 12:00**: Lunch w okolicy Parc de la Ciutadella
+  - Propozycja: **Restaurant Marítim** - Passeig de Joan de Borbó, 100, 08039 Barcelona
+- **12:00 - 14:00**: **Mercat de Sant Josep de la Boqueria**
+  - **Opis**: Popularny targ z różnorodnymi produktami spożywczymi, tapas i świeżymi owocami.
+  - **Godziny otwarcia**: 9:00 - 20:00
+  - **Adres**: La Rambla, 91, 08001 Barcelona
+- **14:00 - 16:00**: Spacer po **Gracia**
+  - **Opis**: Kolorowa dzielnica z klimatycznymi placami, kawiarniami i lokalnymi sklepami.
+  - **Główne punkty**: Plaça del Sol, Carrer de Verdi
+- **16:00 - 17:00**: Obiad w okolicy Gracia
+  - Propozycja: **La Pepita** - Carrer de Còrsega, 343, 08037 Barcelona
+- **17:00 - 19:00**: Spacer po **Passeig del Born**
+  - **Opis**: Żywa ulica w dzielnicy El Born, pełna barów, restauracji i sklepów.
+  - **Adres**: Passeig del Born, 08003 Barcelona
+
+### Dzień 5: Środa
+- **08:00 - 09:00**: Śniadanie w centrum
+  - Propozycja: **Federal Cafe** - Passatge de la Pau, 11, 08002 Barcelona
+- **09:00 - 11:00**: **Oceanarium**
+  - **Opis**: Jedno z największych oceanariów w Europie, oferujące możliwość podziwiania wielu gatunków morskich stworzeń.
+  - **Godziny otwarcia**: 10:00 - 20:00
+  - **Cena**: 20 EUR
+  - **Adres**: Moll d'Espanya del Port Vell, s/n, 08039 Barcelona
+- **11:00 - 12:00**: Lunch w centrum
+  - Propozycja: **Restaurant Salamanca** - Carrer de l'Almirall Cervera, 34, 08003 Barcelona
+- **12:00 - 13:00**: Krótkie zwiedzanie **Barceloneta**
+  - **Opis**: Nadmorska dzielnica z piękną plażą i widokami na morze.
+  - **Adres**: Barceloneta, 08003 Barcelona
+- **13:00 - 14:00**: Powrót do mieszkania i przygotowanie do wyjazdu.
+- **14:00**: Wyjazd na lotnisko
+  - **Transport**: Aerobus A1 lub A2
+  - **Częstotliwość**: Co 5 minut w godzinach szczytu, co 10 minut w pozostałych godzinach
+  - **Adresy przystanków w centrum**: Plaça Espanya, Gran Via-Urgell, Plaça Universitat, Plaça Catalunya
+  - **Cena**: 7,25 EUR za jedną stronę, 12,25 EUR za bilet powrotny
+  - **Czas podróży**: Około 35 minut
