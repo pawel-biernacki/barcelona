@@ -77,37 +77,42 @@
 ### Dzień 4: Wtorek
 - **08:00 - 09:00**: Śniadanie w centrum
   - Propozycja: **Churrería Laietana** - Via Laietana, 46, 08003 Barcelona
-- **09:00 - 11:00**: **Parc de la Ciutadella**
-  - **Opis**: Duży park z jeziorem, ogrodami i monumentalną fontanną.
-  - **Adres**: Passeig de Picasso, 21, 08003 Barcelona
-- **11:00 - 12:00**: Lunch w okolicy Parc de la Ciutadella
-  - Propozycja: **Restaurant Marítim** - Passeig de Joan de Borbó, 100, 08039 Barcelona
-- **12:00 - 14:00**: **Mercat de Sant Josep de la Boqueria**
+- **09:00 - 11:00**: **Oceanarium**
+  - **Opis**: Jedno z największych oceanariów w Europie, oferujące możliwość podziwiania wielu gatunków morskich stworzeń.
+  - **Godziny otwarcia**: 10:00 - 20:00
+  - **Cena**: 20 EUR
+  - **Adres**: Moll d'Espanya del Port Vell, s/n, 08039 Barcelona
+  - **Kupno biletu**: Online na stronie [L'Aquarium](https://www.aquariumbcn.com/en/tickets/)
+- **11:00 - 12:00**: Lunch w okolicy Oceanarium
+  - Propozycja: **Restaurant Salamanca** - Carrer de l'Almirall Cervera, 34, 08003 Barcelona
+- **12:00 - 13:00**: Krótkie zwiedzanie **Barceloneta**
+  - **Opis**: Nadmorska dzielnica z piękną plażą i widokami na morze.
+  - **Adres**: Barceloneta, 08003 Barcelona
+- **13:00 - 15:00**: **Mercat de Sant Josep de la Boqueria**
   - **Opis**: Popularny targ z różnorodnymi produktami spożywczymi, tapas i świeżymi owocami.
   - **Godziny otwarcia**: 9:00 - 20:00
   - **Adres**: La Rambla, 91, 08001 Barcelona
-- **14:00 - 16:00**: Spacer po **Gracia**
+- **15:00 - 17:00**: Spacer po **Gracia**
   - **Opis**: Kolorowa dzielnica z klimatycznymi placami, kawiarniami i lokalnymi sklepami.
   - **Główne punkty**: Plaça del Sol, Carrer de Verdi
-- **16:00 - 17:00**: Obiad w okolicy Gracia
+- **17:00 - 19:00**: Obiad w okolicy Gracia
   - Propozycja: **La Pepita** - Carrer de Còrsega, 343, 08037 Barcelona
-- **17:00 - 19:00**: Spacer po **Passeig del Born**
+- **19:00 - 21:00**: Spacer po **Passeig del Born**
   - **Opis**: Żywa ulica w dzielnicy El Born, pełna barów, restauracji i sklepów.
   - **Adres**: Passeig del Born, 08003 Barcelona
 
 ### Dzień 5: Środa
 - **08:00 - 09:00**: Śniadanie w centrum
   - Propozycja: **Federal Cafe** - Passatge de la Pau, 11, 08002 Barcelona
-- **09:00 - 11:00**: **Oceanarium**
-  - **Opis**: Jedno z największych oceanariów w Europie, oferujące możliwość podziwiania wielu gatunków morskich stworzeń.
-  - **Godziny otwarcia**: 10:00 - 20:00
-  - **Cena**: 20 EUR
-  - **Adres**: Moll d'Espanya del Port Vell, s/n, 08039 Barcelona
-- **11:00 - 12:00**: Lunch w centrum
-  - Propozycja: **Restaurant Salamanca** - Carrer de l'Almirall Cervera, 34, 08003 Barcelona
-- **12:00 - 13:00**: Krótkie zwiedzanie **Barceloneta**
-  - **Opis**: Nadmorska dzielnica z piękną plażą i widokami na morze.
-  - **Adres**: Barceloneta, 08003 Barcelona
+- **09:00 - 11:00**: **Parc de la Ciutadella**
+  - **Opis**: Duży park z jeziorem, ogrodami i monumentalną fontanną.
+  - **Adres**: Passeig de Picasso, 21, 08003 Barcelona
+  - **Wstęp**: Darmowy
+- **11:00 - 12:00**: Lunch w okolicy Parc de la Ciutadella
+  - Propozycja: **Restaurant Marítim** - Passeig de Joan de Borbó, 100, 08039 Barcelona
+- **12:00 - 13:00**: Spacer po **Barri Gòtic**
+  - **Opis**: Historyczna dzielnica z wąskimi uliczkami, gotycką architekturą i pięknymi placami.
+  - **Główne punkty**: Plaça Reial, Plaça Sant Jaume, Katedra św. Eulalii (La Seu)
 - **13:00 - 14:00**: Powrót do mieszkania i przygotowanie do wyjazdu.
 - **14:00**: Wyjazd na lotnisko
   - **Transport**: Aerobus A1 lub A2
